@@ -106,10 +106,10 @@ The system uses a **CNN-based deep learning model** trained on rice leaf images 
 ---
 
 ## 📸 Screenshots
-_Add your project screenshots here_
+
 <img width="856" height="839" alt="image" src="https://github.com/user-attachments/assets/a65c5ff6-2e8a-46c0-b257-2e8a439f7ca2" />
 
----
+
 
 
 ---
